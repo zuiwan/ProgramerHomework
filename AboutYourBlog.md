@@ -8,7 +8,7 @@
 
 我尝试过两种博客生成器，一个是github推荐的[jekyll](http://jekyllcn.com/)
 
-**重提一遍，在github上搭建可以直接访问的个人博客、主页或者组织、项目网站，[最好的参考文档在这里](https://pages.github.com/)
+**重提一遍，在github上搭建可以直接访问的个人博客、主页或者组织、项目网站，[最好的参考文档在这里](https://pages.github.com/)**
 
 一个就是Hexo。
 
