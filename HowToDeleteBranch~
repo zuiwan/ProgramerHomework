@@ -12,6 +12,3 @@
 注意在origin后面和：之前有个空格。
 然后输入在github上的用户名和密码即可。
 
-3.亦可 git branch -d BRANCH_DELETE
-	git branch --delete BRANCH_DELETE
-
